@@ -6,7 +6,7 @@
 •	The value of the sensor is then posted through HTTP POST request to Thingspeak channel which gets ploted to graphs of temperature and humidity with respect to time
 • The person anytime can log in to his account and can see these values <br><br>
 We need to install the DHT11 library for this and a thingspeak account to create the channel and get the api keys<br><br><br>
-<b>THINGSPEAK CHANNEL</b>
+<b>Temp and Humidity data on Thingspeak Channel</b><br><br>
 <img src="https://cloud.githubusercontent.com/assets/23056679/20391926/9a4c27b6-acfb-11e6-8f58-25a141bcfad2.jpg">
 
 
