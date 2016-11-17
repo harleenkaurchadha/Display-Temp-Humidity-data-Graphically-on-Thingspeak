@@ -1,9 +1,9 @@
 #include "DHT.h"
 #include <ESP8266WiFi.h>
 
-String APIkey="FBCLIH8H296QAEJ1";
-const char* ssid="KARMAN SINGH";/*"HARLEEN KAUR";*/
-const char* pass="parvinder";/*"KARMAN2712";*/
+String APIkey="YOUR THINGSPEAK API KEY";
+const char* ssid="YOUR NETWORK SSID";
+const char* pass="YOUR PASSWORD"
 const char* server="api.thingspeak.com";
 #define DHTPin 13
 DHT dht(DHTPin,DHT11);
