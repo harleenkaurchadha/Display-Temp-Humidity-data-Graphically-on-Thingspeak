@@ -7,5 +7,5 @@
 • The person anytime can log in to his account and can see these values <br><br>
 We need to install the DHT11 library for this and a thingspeak account to create the channel and get the api keys<br><br><br>
 <b>THINGSPEAK CHANNEL</b>
-<img src="C:\Users\anmol\Downloads\FullSizeRender.jpg">
+
 
