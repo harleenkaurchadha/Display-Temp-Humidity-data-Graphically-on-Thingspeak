@@ -9,3 +9,4 @@ We need to install the DHT11 library for this and a thingspeak account to create
 <b>THINGSPEAK CHANNEL</b>
 
 
+
