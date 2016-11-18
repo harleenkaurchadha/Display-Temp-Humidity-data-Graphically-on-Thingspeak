@@ -1,4 +1,4 @@
-# Display-Temp-Humidity-data-Graphically-on-Thingspeak
+# Temp-Humidity-Logger-Using-Thingspeak
 
 <b>OBJECTIVE</b>-To collect the value of Temperature and Humidity of an area and display it graphically with respect to time on IOT cloud platform,Thingspeak which can be viewed from anywhere across the world.<br><br>
 <b>DESCRIPTION</b><br><br>
